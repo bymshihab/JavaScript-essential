@@ -32,5 +32,3 @@ const colors = ['red', 'green', 'blue', 'yellow'];
 const [firstColor, secondColor, ...restColors] = colors;
 
 console.log(restColors);
-
-
