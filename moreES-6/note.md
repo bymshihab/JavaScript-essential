@@ -20,7 +20,7 @@ This document summarizes commonly used JavaScript array methods with clear defin
 const nums = [1, 2, 3];
 const doubled = nums.map(n => n * 2);
 // [2, 4, 6]
-
+```
 
 ---
 
@@ -42,8 +42,8 @@ const doubled = nums.map(n => n * 2);
 const nums = [1, 2, 3];
 nums.forEach(n => console.log(n * 2));
 // logs: 2, 4, 6
+```
 
-        
 ---
 
 ### **Part 3: `reduce` and Summary Table**
@@ -62,6 +62,7 @@ nums.forEach(n => console.log(n * 2));
 
 **Example**
 ```js
-const nums = [1, 2, 3, 4];
+const nums = [1, 2, 3, 4];  
 const sum = nums.reduce((acc, n) => acc + n, 0);
 // 10
+```
