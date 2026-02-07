@@ -26,9 +26,8 @@ const doubled = nums.map(n => n * 2);
 
 ### **Part 2: `forEach` and `find`**
 
-```markdown
 ## `forEach()`
-```
+
 **Purpose**
 - Executes a function on each array element
 
