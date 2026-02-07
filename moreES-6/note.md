@@ -47,10 +47,7 @@ nums.forEach(n => console.log(n * 2));
 ---
 
 ### **Part 3: `reduce` and Summary Table**
-
-```markdown
 ## `reduce()`
-
 **Purpose**
 - Reduces array to a **single value** by applying a function
 
